@@ -100,3 +100,22 @@ Disclaimer
 ==========
 
 This guide is for **informational purposes only**. We are not affiliated with YouTube, Google, or any of their services. All trademarks, logos, and product names are the property of their respective owners. For official support, please visit the YouTube Help Center.
+
+
+.. raw:: html
+
+
+        <script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.us3.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '150']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
