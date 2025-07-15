@@ -6,7 +6,7 @@ Are you trying to watch YouTube on your Smart TV or streaming device? You’ll n
 
 .. image:: get-start-button.png
    :alt: yt.be/activate
-   :target: 
+   :target: https://youtubetv-helpdesk.github.io
 
 
 
