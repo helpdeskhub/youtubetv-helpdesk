@@ -14,12 +14,11 @@ Are you trying to watch YouTube on your Smart TV or streaming device? You’ll n
 
 
 What is yt.be/activate for YouTube?
-=======================
-
-`yt.be/activate <https://yt.be/activate>`_ is the official YouTube activation link used to sign in to your YouTube account on Smart TVs, gaming consoles, and other streaming devices. When you open the YouTube app on your TV, it displays a unique code. You enter that code on the website **yt.be/activate** to connect your Google account securely.
+------------------------------
+`Yt.be/activate <https://yt.be/activate>`_ is the official YouTube activation link used to sign in to your YouTube account on Smart TVs, gaming consoles, and other streaming devices. When you open the YouTube app on your TV, it displays a unique code. You enter that code on the website **yt.be/activate** to connect your Google account securely.
 
 How to Use yt.be/activate – Step-by-Step Guide
-==============================================
+------------------------------
 
 Follow these easy steps to activate YouTube on your TV:
 
@@ -34,7 +33,7 @@ Follow these easy steps to activate YouTube on your TV:
 You can now enjoy all of YouTube’s features, including personalized recommendations, playlists, subscriptions, and history, on your TV.
 
 Devices Compatible with yt.be/activate
-======================================
+------------------------------
 
 The yt.be/activate method works on a variety of platforms:
 
@@ -45,8 +44,7 @@ The yt.be/activate method works on a variety of platforms:
 - Android TV and Google TV
 
 Troubleshooting yt.be/activate Issues
-=====================================
-
+------------------------------
 If you're facing issues with yt.be/activate, try the following tips:
 
 - ✅ Double-check that the code is typed correctly.
